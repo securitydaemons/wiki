@@ -18,11 +18,10 @@ TDC377 (Fundamentals of Network Security)
 * Intermediate network security class
 * Primarily focused on enterprise security architecture (i.e. defense-in-depth)
 * Sample Technologies: SNAT/DNAT; IPSec; VPN
+
 ### Application Security
 CNS397/SE526 (Software Security Assessment)
 * Advanced software security class
 * Primarily focused on binary reverse engineering, static/dynamic malware analysis, event correlation
 * Sample Technologies: IDA Pro/ debuggers, x86 Assembly, Splunk
-### 
-
 
